@@ -47,7 +47,10 @@ const Index = ({ data }) => {
           Projeto criado durante o evento Dev10k do{" "}
           <a href="https://devpleno.com">DevPleno</a>
           <br />
-          Código-fonte disponível em: ...
+          Código-fonte disponível em:{" "}
+          <a href="https://github.com/tuliofaria/sociallinks">
+            https://github.com/tuliofaria/sociallinks
+          </a>
         </div>
       </div>
     </div>
